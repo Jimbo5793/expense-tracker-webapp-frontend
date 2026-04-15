@@ -51,7 +51,7 @@ Before running this application, make sure you have:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Jimbo5793/expense-tracker-webapp-frontend.git
-   cd expense-tracker-app
+   cd expense-tracker-webapp-frontend
    ```
 
 2. **Install dependencies**
